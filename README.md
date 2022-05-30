@@ -60,5 +60,7 @@ Shay Craig
 Andres Garzon Maldonado
     
   [GITHUB](https://github.com/andgarzonmal)
+  [LINKEDIN](https://www.linkedin.com/in/andres-garzon-maldonado-951a2a180/)
+
 
 ## ACKNOWLEDMENTS: 

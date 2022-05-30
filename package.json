@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/HansZizold/Portfolio/issues"
   },
-  "homepage": "https://github.com/HansZizold/Portfolio#readme"
+  "homepage": "https://github.com/HansZizold/Portfolio#readme",
+  "dependencies": {
+    "luxon": "^2.4.0"
+  }
 }
