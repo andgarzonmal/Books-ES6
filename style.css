@@ -195,3 +195,8 @@ h1 {
 .bookshelf {
   display: unset;
 }
+
+.date {
+  width: 90%;
+  text-align: right;
+}
